@@ -103,7 +103,9 @@ To meet the demands of a production dApp you can run an [archive node](/docs/bui
 | ChainID | 1261120 |
 | HTTPS | Startale Labs: https://rpc.startale.com/zkatana |
 |         | Gelato: https://rpc.zkatana.gelato.digital |
+|         | dRPC: https://astar-zkatana.drpc.org |
 | Websocket | Gelato: wss://ws.zkatana.gelato.digital |
+|         | dRPC: wss://astar-zkatana.drpc.org |
 | Symbol | ETH |
 
 </TabItem>
